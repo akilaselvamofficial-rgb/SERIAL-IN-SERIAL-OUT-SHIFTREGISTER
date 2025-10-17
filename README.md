@@ -44,7 +44,8 @@ Developed by AKILA S: RegisterNumber:25018659
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-<img width="1028" height="155" alt="image" src="https://github.com/user-attachments/assets/21ec72a7-87f8-4a19-9b07-3ba11d6cc60b" />
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/5ac0bcd1-e61a-424e-b051-a536806d7cef" />
+
 
 
 
